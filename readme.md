@@ -1,1 +1,1 @@
-[Compose new issue here.](/interestinglythere/composer/issues/new)
+[Compose new issue here.](https://github.com/interestinglythere/composer)
